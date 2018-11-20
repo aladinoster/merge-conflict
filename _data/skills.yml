@@ -4,6 +4,14 @@
 - skill: Education
   description: Developed and maintained various conference talks, online training, and in-person trainings covering various topics including Git, GitHub, and Open Source.
 
+# Math
+- skill: Math
+  description: After completing some studies I feel pretty confident in calculus and linear algebra.
+
 # Leadership
 - skill: Leadership
   description: Managed multiple asynchronous teams in the development, maintenance, and release of various web applications and websites.
+  
+# Git 
+- skill: Git
+  description: Yes, I know how to manage git! :) 
